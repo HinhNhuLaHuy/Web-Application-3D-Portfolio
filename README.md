@@ -1,8 +1,3 @@
-# React + Vite
+# Web-Application-3D-Portfolio 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Web-Application-3D-Portfolio](https://github.com/HinhNhuLaHuy/Web-Application-3D-Portfolio/assets/84061230/2f6959fa-c87d-429d-b2cd-d8e2f72ef441)
